@@ -16,7 +16,7 @@ This project includes a **Cursor project rule** so the Karpathy-inspired behavio
 
 ## Optional: personal Agent Skills
 
-If you want the same content as a reusable skill under `~/.cursor/skills`, use [`skills/karpathy-guidelines/SKILL.md`](skills/karpathy-guidelines/SKILL.md). You can copy or symlink it into your personal skills directory; use whatever layout you use for other skills.
+If you want the same content as a reusable skill for Claude Code, use [`skills/karpathy-guidelines/SKILL.md`](skills/karpathy-guidelines/SKILL.md). Copy or symlink it into your personal skills directory at `~/.claude/skills/karpathy-guidelines/`. (Cursor itself does not load `SKILL.md` files — for Cursor, use the `.cursor/rules/` rule described above.)
 
 ## Claude Code vs Cursor
 
